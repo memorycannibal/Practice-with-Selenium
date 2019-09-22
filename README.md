@@ -1,0 +1,15 @@
+# Базовая работа с Selenium.
+##### для запуска, необходим pytest, либо запуск функций в ручную.
+ - [Alerts](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Alerts)
+ - [BrowserWindow](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/BrowserWindow)
+ - [Cookie](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Cookie)
+- [Download File](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Download%20File)
+- [Frames](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Frames)
+- [Generating log file](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Generating%20log%20file)
+- [Links](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Links)
+- [Radiobox/Checkbox](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Radiobox%20Checkbox)
+- [ScreenShot](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/ScreeShot)
+- [Scrolling](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Scrolling)
+- [Select](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Select)
+- [Tables](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Tables)
+- [Uploading](https://github.com/memorycannibal/Practice-with-Selenium/tree/master/work%20wih%20elements/Uploading)
